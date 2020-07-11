@@ -17,10 +17,10 @@ Quickly generate maps of road networks coloured by words in road names
 
 1. Install conda
 2. 
-   conda config --prepend channels conda-forge
-   conda create -n ox --strict-channel-priority osmnx
+   `conda config --prepend channels conda-forge`
+   `conda create -n ox --strict-channel-priority osmnx`
 3. 
-   conda activate ox
+   `conda activate ox`
 4. Run your python program that imports osmnx-color-roads
 
 *Warning: conda will clash with Pyenv - [this StackOverflow can help](https://stackoverflow.com/questions/57640272/how-can-i-install-anaconda-aside-an-existing-pyenv-installation-on-osx)* 
