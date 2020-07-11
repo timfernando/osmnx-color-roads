@@ -43,6 +43,3 @@ Building on work by Cédric Scherer @CedScherer and @erdavis
 
 #mapgeek #gis #osmnx #opensource #visualization #python #mapvisualization
 
-https://twitter.com/gboeing
-https://twitter.com/openstreetmap
-
