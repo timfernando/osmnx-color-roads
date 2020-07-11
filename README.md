@@ -23,7 +23,8 @@ Quickly generate maps of road networks coloured by words in road names
    ```
 3. 
    `conda activate ox`
-4. Run your python program that imports osmnx-color-roads
+4. Download a copy of `osmnx_color_roads.py` from this repo
+4. Run your python program that imports `osmnx_color_roads`
 
 *Warning: conda will clash with Pyenv - [this StackOverflow can help](https://stackoverflow.com/questions/57640272/how-can-i-install-anaconda-aside-an-existing-pyenv-installation-on-osx)* 
 
