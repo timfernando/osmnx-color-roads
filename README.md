@@ -16,7 +16,8 @@ Quickly generate maps of road networks coloured by words in road names
 `osmnx-color-roads` requires `osmnx` which has a long list of dependencies. The fastest way to get started is to use [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/index.html) to manage your Python environment and dependencies for osmnx.
 
 1. Install conda
-2. ```
+2. Setup osmnx with conda
+   ```
    conda config --prepend channels conda-forge
    conda create -n ox --strict-channel-priority osmnx
    ```
